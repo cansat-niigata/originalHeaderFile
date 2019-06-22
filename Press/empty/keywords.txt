@@ -1,0 +1,9 @@
+basic	KEYWORD3
+set	KEYWORD3
+readTrim	KEYWORD3
+readData	KEYWORD3
+writeReg	KEYWORD3
+measPress	KEYWORD3
+calc_t		KEYWORD7
+calc_p		KEYWORD7
+calc_h		KEYWORD7

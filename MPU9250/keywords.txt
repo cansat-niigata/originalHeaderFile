@@ -1,0 +1,48 @@
+#######################################
+# Syntax Coloring Map PID
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+MPU9250	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+set	KEYWORD2
+read	KEYWORD2
+calc	KEYWORD2
+accX	KEYWORD2
+accY	KEYWORD2
+accZ	KEYWORD2
+gyroX	KEYWORD2
+gyroY	KEYWORD2
+gyroZ	KEYWORD2
+tempMPU9250	KEYWORD2
+magX	KEYWORD2
+magY	KEYWORD2
+magZ	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+MPU9250_ADDRESS	LITERAL1
+PWR_MGMT_1	LITERAL1
+INT_PIN_CFG
+ACCEL_CONFIG	LITERAL1
+ACCEL_FS_SEL_2G	LITERAL1
+ACCEL_FS_SEL_4G	LITERAL1
+ACCEL_FS_SEL_8G	LITERAL1
+ACCEL_FS_SEL_16G	LITERAL1
+GYRO_CONFIG	LITERAL1
+GYRO_FS_SEL_250DPS	LITERAL1
+GYRO_FS_SEL_500DPS	LITERAL1
+GYRO_FS_SEL_1000DPS	LITERAL1
+GYRO_FS_SEL_2000DPS	LITERAL1
+AK8963_ADDRESS	LITERAL1
+CNTL1	LITERAL1
+CNTL1_MODE_SEL_8HZ	LITERAL1
+CNTL1_MODE_SEL_100HZ	LITERAL1
+#define ST1 0x02//データ読み込み用フラッグのアドレス

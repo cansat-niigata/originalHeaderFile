@@ -1,0 +1,19 @@
+#######################################
+# Syntax Coloring Map UseMotor
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+UseMotor	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+rotationNormal	KEYWORD2
+rotationInvert	KEYWORD2
+rotationNormal_p	KEYWORD2
+rotationInvert_p	KEYWORD2
+brake	KEYWORD2
+stop	KEYWORD2

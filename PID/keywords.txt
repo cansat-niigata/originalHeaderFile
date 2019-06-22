@@ -1,0 +1,21 @@
+#######################################
+# Syntax Coloring Map PID
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+PID	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+set_Target	KEYWORD2
+set_conVar	KEYWORD2
+set_Kp	KEYWORD2
+set_Ki	KEYWORD2
+set_Kd	KEYWORD2
+set_dt	KEYWORD2
+get_conVar	KEYWORD2
+update_conVar	KEYWORD2
